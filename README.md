@@ -15,7 +15,7 @@ A lightweight desktop wrapper around YouTube Music built with **.NET 8 WinForms 
 - Edge-based media card ("YTMusic")
 - 80% default zoom, dark theme (including the title bar)
 - Optional autorun at Windows startup
-- Built-in updater check (placeholder URL — set your own in `SettingsForm.cs`)
+- Built-in updater check (opens https://github.com/KillShotNo1/YTMUSIC)
 
 ## Default hotkeys
 
@@ -36,9 +36,7 @@ All hotkeys can be changed in Settings.
 
 ## Installation
 
-### Installer (recommended)
-
-Download `YouTubeMusic_Setup.exe` from the [[Releases](https://github.com/KillShotNo1/YTMUSIC/releases/download/Release/YouTubeMusic_Setup.exe] page and run it. It will:
+Download [`YouTubeMusic_Setup.exe`](https://github.com/KillShotNo1/YTMUSIC/releases/download/Release/YouTubeMusic_Setup.exe) and run it. It will:
 
 1. Extract the app to `%LocalAppData%\YTMDesktop`
 2. Create Desktop and Start Menu shortcuts
@@ -64,7 +62,7 @@ Open Settings from the title bar (gear icon). Available options:
 - Autorun at Windows startup
 - Hotkey capture boxes
 - Version label
-- Check for updates (URL is a placeholder — set your own in `SettingsForm.cs`)
+- Check for updates (opens https://github.com/KillShotNo1/YTMUSIC)
 
 ## License
 
