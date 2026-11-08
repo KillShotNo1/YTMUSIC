@@ -46,32 +46,6 @@ Download `YouTubeMusic_Setup.exe` from the [Releases](../../releases) page and r
 
 Download the portable `YouTube Music.exe` from the [Releases](../../releases) page and run it directly (WebView2 Runtime must already be installed).
 
-## Build (portable app)
-
-```
-build-app.bat
-```
-
-Output: `publish\YouTube Music.exe` (self-contained, single file).
-
-Or manually:
-
-```
-dotnet publish App\App.csproj -c Release -r win-x64 --self-contained true ^
-  -p:Version=1.0.0 -p:PublishSingleFile=true -p:PublishReadyToRun=true ^
-  -p:DebugType=none -p:DebugSymbols=false -o publish
-```
-
-## Build (full installer)
-
-Requires the WebView2 Runtime offline installer in `deps/` (downloaded automatically by `build.bat`):
-
-```
-build.bat
-```
-
-Output: `YouTubeMusic_Setup.exe`.
-
 ## Project layout
 
 ```
