@@ -11,7 +11,7 @@ public class SettingsForm : Form
     private readonly Button btnUpdate = new() { Text = "Check for updates" };
 
     // TODO: replace with the real repository URL.
-    private const string UpdateUrl = "https://github.com/";
+    private const string UpdateUrl = "https://github.com/KillShotNo1/YTMUSIC";
 
     private static readonly string AppVersion =
         (System.Reflection.Assembly.GetExecutingAssembly().GetName().Version ?? new Version(1, 0, 0))
