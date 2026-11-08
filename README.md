@@ -1,5 +1,9 @@
 # YTMusic
 
+<p align="center">
+  <img src="logo.png" alt="YTMusic logo" width="128" />
+</p>
+
 A lightweight desktop wrapper around YouTube Music built with **.NET 8 WinForms + WebView2**.
 
 ## Features
