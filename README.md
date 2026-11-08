@@ -62,7 +62,7 @@ Open Settings from the title bar (gear icon). Available options:
 - Autorun at Windows startup
 - Hotkey capture boxes
 - Version label
-- Check for updates (opens https://github.com/KillShotNo1/YTMUSIC)
+- Check for updates (opens) https://github.com/KillShotNo1/YTMUSIC)
 
 ## License
 
