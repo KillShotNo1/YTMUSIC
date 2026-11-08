@@ -36,19 +36,15 @@ All hotkeys can be changed in Settings.
 
 ## Installation
 
-### Option A — Installer (recommended)
+### Installer (recommended)
 
-Download `YouTubeMusic_Setup.exe` from the [[Releases](../../releases)](https://github.com/KillShotNo1/YTMUSIC/releases/download/Release/YouTubeMusic_Setup.exe) page and run it. It will:
+Download `YouTubeMusic_Setup.exe` from the [[Releases](https://github.com/KillShotNo1/YTMUSIC/releases/download/Release/YouTubeMusic_Setup.exe] page and run it. It will:
 
 1. Extract the app to `%LocalAppData%\YTMDesktop`
 2. Create Desktop and Start Menu shortcuts
 3. Register the app identity / media card
 4. Enable autorun at Windows startup (can be turned off in Settings)
 5. Install the WebView2 Runtime if it is missing
-
-### Option B — Portable
-
-Download the portable `YouTube Music.exe` from the [Releases](../../releases) page and run it directly (WebView2 Runtime must already be installed).
 
 ## Project layout
 
