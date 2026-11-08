@@ -15,7 +15,7 @@ A lightweight desktop wrapper around YouTube Music built with **.NET 8 WinForms 
 - Edge-based media card ("YTMusic")
 - 80% default zoom, dark theme (including the title bar)
 - Optional autorun at Windows startup
-- Built-in updater check (opens https://github.com/KillShotNo1/YTMUSIC)
+- Built-in updater check [`opens`](https://github.com/KillShotNo1/YTMUSIC)
 
 ## Default hotkeys
 
