@@ -38,7 +38,7 @@ All hotkeys can be changed in Settings.
 
 ### Option A — Installer (recommended)
 
-Download `YouTubeMusic_Setup.exe` from the [Releases]([../../releases](https://github.com/KillShotNo1/YTMUSIC/releases/download/Release/YouTubeMusic_Setup.exe)) page and run it. It will:
+Download `YouTubeMusic_Setup.exe` from the [[Releases](../../releases)](https://github.com/KillShotNo1/YTMUSIC/releases/download/Release/YouTubeMusic_Setup.exe) page and run it. It will:
 
 1. Extract the app to `%LocalAppData%\YTMDesktop`
 2. Create Desktop and Start Menu shortcuts
